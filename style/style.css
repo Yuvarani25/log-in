@@ -1,0 +1,26 @@
+*{
+    margin: 0px ;
+    padding: 0px;
+    
+}
+img{
+    align-items: center;
+    height: 150px;
+    width:150px;
+}
+.form{
+    align-items: center;
+    height: 350px;
+    width: 280px;
+    border: 7px solid pink;
+    margin:150px 0px 0px 550px;
+    padding:30px 50px 30px 140px;
+}
+input{
+    margin-bottom: 20px;
+    padding: 10px;
+}
+button{
+    background-color: rgb(230, 210, 248);
+    width:150px;
+}
